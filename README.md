@@ -13,9 +13,10 @@
 * [Webpack Manifest](https://webpack.js.org/concepts/manifest/)
 * [Javascript Sourcemaps](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map)
 
-## Libraries and Utilities
+## Libraries, Loaders and Plugins
 * [React Codemod](https://github.com/reactjs/react-codemod)
 * [Mini CSS Extract Plugin](https://github.com/webpack-contrib/mini-css-extract-plugin)
+* [Define Plugin](https://webpack.js.org/plugins/define-plugin/)
 
 
 ## Stackoverflow / Github
@@ -29,3 +30,4 @@
 * [Instantiation of JS engines](https://github.com/Taritsyn/JavaScriptEngineSwitcher/wiki/Creating-instances-of-JS-engines)
   * [JavaScriptEngineFactory.cs [React.Core]](https://github.com/reactjs/React.NET/blob/master/src/React.Core/JavaScriptEngineFactory.cs#L274)
 * [React Environment](https://github.com/reactjs/React.NET/blob/master/src/React.Core/ReactEnvironment.cs#L85)
+* [ReactJS.net Code structure](https://reactjs.net/dev/code-structure.html#interfaces-and-dependency-injection)
