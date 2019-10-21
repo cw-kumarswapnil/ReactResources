@@ -34,3 +34,10 @@
   * [JavaScriptEngineFactory.cs [React.Core]](https://github.com/reactjs/React.NET/blob/master/src/React.Core/JavaScriptEngineFactory.cs#L274)
 * [React Environment](https://github.com/reactjs/React.NET/blob/master/src/React.Core/ReactEnvironment.cs#L85)
 * [ReactJS.net Code structure](https://reactjs.net/dev/code-structure.html#interfaces-and-dependency-injection)
+
+## To-Do
+* [loadable components](https://github.com/smooth-code/loadable-components)
+* [React Helmet](https://github.com/nfl/react-helmet)
+* [RenderFunctionBase.cs](https://github.com/reactjs/React.NET/blob/master/src/React.Core/RenderFunctionsBase.cs)
+* [ChainedRenderFunctions.cs](https://github.com/reactjs/React.NET/blob/master/src/React.Core/RenderFunctions/ChainedRenderFunctions.cs)
+* [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)
