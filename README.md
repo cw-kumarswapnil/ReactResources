@@ -9,6 +9,7 @@
 * [What makes Universal Rendering so painful](https://github.com/faceyspacey/react-universal-component#what-makes-universal-rendering-so-painful)
 * [Server side rendering with Preact](https://preactjs.com/guide/v10/server-side-rendering/)
 * [Webpack migration guide](https://webpack.js.org/migrate/4/)
+* [webpack 4: import() and CommonJs](https://medium.com/webpack/webpack-4-import-and-commonjs-d619d626b655)
 * [Webpack Tree Shaking](https://webpack.js.org/guides/tree-shaking/)
 * [Webpack Manifest](https://webpack.js.org/concepts/manifest/)
 * [Javascript Sourcemaps](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map)
@@ -17,6 +18,8 @@
 * [React Codemod](https://github.com/reactjs/react-codemod)
 * [Mini CSS Extract Plugin](https://github.com/webpack-contrib/mini-css-extract-plugin)
 * [Define Plugin](https://webpack.js.org/plugins/define-plugin/)
+* [React.Lazy and React.Suspense](https://reactjs.org/docs/code-splitting.html#reactlazy)
+* [React Context API](https://reactjs.org/docs/context.html)
 
 
 ## Stackoverflow / Github
