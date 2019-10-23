@@ -43,3 +43,7 @@
 * [RenderFunctionBase.cs](https://github.com/reactjs/React.NET/blob/master/src/React.Core/RenderFunctionsBase.cs)
 * [ChainedRenderFunctions.cs](https://github.com/reactjs/React.NET/blob/master/src/React.Core/RenderFunctions/ChainedRenderFunctions.cs)
 * [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)
+
+## Design patterns / Advanced Guides [Miscellaneous]
+* [React: Composing higher order components](https://medium.com/dailyjs/react-composing-higher-order-components-hocs-3a5288e78f55)
+* [Forwarfing Refs](https://reactjs.org/docs/forwarding-refs.html)
