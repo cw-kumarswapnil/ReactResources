@@ -20,6 +20,8 @@
 * [Define Plugin](https://webpack.js.org/plugins/define-plugin/)
 * [React.Lazy and React.Suspense](https://reactjs.org/docs/code-splitting.html#reactlazy)
 * [React Context API](https://reactjs.org/docs/context.html)
+* [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
+* [Lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
 
 ## Stackoverflow / Github
