@@ -9,6 +9,7 @@
 * [What makes Universal Rendering so painful](https://github.com/faceyspacey/react-universal-component#what-makes-universal-rendering-so-painful)
 * [Server side rendering with Preact](https://preactjs.com/guide/v10/server-side-rendering/)
 * [Javascript Sourcemaps](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map)
+* [Webpack](https://github.com/cw-kumarswapnil/WebpackResources/blob/master/README.md)
 
 ## Libraries, Loaders and Plugins
 * [React Codemod](https://github.com/reactjs/react-codemod)
