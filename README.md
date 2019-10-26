@@ -8,10 +8,6 @@
 * [An insight to how ReactJS.net registers its dependencies [part2]](https://haacked.com/archive/2010/05/16/three-hidden-extensibility-gems-in-asp-net-4.aspx/)
 * [What makes Universal Rendering so painful](https://github.com/faceyspacey/react-universal-component#what-makes-universal-rendering-so-painful)
 * [Server side rendering with Preact](https://preactjs.com/guide/v10/server-side-rendering/)
-* [Webpack migration guide](https://webpack.js.org/migrate/4/)
-* [webpack 4: import() and CommonJs](https://medium.com/webpack/webpack-4-import-and-commonjs-d619d626b655)
-* [Webpack Tree Shaking](https://webpack.js.org/guides/tree-shaking/)
-* [Webpack Manifest](https://webpack.js.org/concepts/manifest/)
 * [Javascript Sourcemaps](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map)
 
 ## Libraries, Loaders and Plugins
