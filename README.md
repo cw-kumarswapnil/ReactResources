@@ -1,4 +1,4 @@
-# Isomorphic React : The gist is not enough. 
+# Isomorphic React
 
 ## Blogs, Docs and Concepts
 * [ES6 static module structure and its benefits](https://exploringjs.com/es6/ch_modules.html#static-module-structure)
